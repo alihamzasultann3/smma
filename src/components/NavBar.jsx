@@ -97,7 +97,7 @@ const NavBar = () => {
             Team
           </a>
           <a
-            href="/Marketing-Website/#about"
+            href="/#about"
             className="text-gray-800 hover:text-[#EE7540] text-lg tracking-wide font-light"
           >
             About
